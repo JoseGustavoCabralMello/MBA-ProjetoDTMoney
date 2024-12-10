@@ -1,7 +1,7 @@
 {
   "transactions": [
     {
-      "id": 1,
+      "id": "1",
       "description": "Desenvolvimento de site",
       "type": "income",
       "category": "Venda",
@@ -9,7 +9,7 @@
       "createdAt": "2024-12-09T13:29:42.294Z"
     },
     {
-      "id": 2,
+      "id": "2",
       "description": "Hamburger",
       "type": "outcome",
       "category": "Alimentação",
@@ -17,12 +17,28 @@
       "createdAt": "2024-12-09T13:20:42.294Z"
     },
     {
-      "id": 3,
+      "id": "3",
       "description": "Curso",
       "type": "outcome",
       "category": "Educação",
       "price": 100,
       "createdAt": "2024-12-09T13:20:42.294Z"
+    },
+    {
+      "id": "743e",
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-12-10T20:56:44.408Z"
+    },
+    {
+      "id": "aa92",
+      "description": "Batata frita",
+      "price": 15,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-12-10T21:37:59.110Z"
     }
   ]
 }
