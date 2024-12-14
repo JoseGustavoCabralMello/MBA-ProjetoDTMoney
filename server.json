@@ -39,6 +39,14 @@
       "category": "Alimentação",
       "type": "outcome",
       "createdAt": "2024-12-10T21:37:59.110Z"
+    },
+    {
+      "description": "Sorvete",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-12-14T22:12:28.786Z",
+      "id": "qK9kPab"
     }
   ]
 }
