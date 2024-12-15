@@ -7,8 +7,8 @@ import { useMemo } from 'react';
     return context.transactions
   })
 
-  const summary = useMemo (() => {
-    transactions.reduce(
+  const summary = useMemo(() => {
+    return transactions.reduce(
       (acc, transaction) => {
         if (transaction.type === 'income') {
           acc.income += transaction.price;
